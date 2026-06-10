@@ -1,3 +1,6 @@
+<img width="756" height="820" alt="ScreenShot_2026-06-11_054421_591" src="https://github.com/user-attachments/assets/6646c690-1085-44c8-948b-73ab0a0d5bfd" />
+<img width="655" height="196" alt="ScreenShot_2026-06-11_054512_128" src="https://github.com/user-attachments/assets/94204f25-4e1f-4807-bfa1-cdd02fbc2fb3" />
+
 # Cairn 文件上传完整流程
 
 ## 一、启动 Cairn
